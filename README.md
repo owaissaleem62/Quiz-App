@@ -8,7 +8,7 @@ This is a simple Quiz app project built using HTML, CSS, and JavaScript. The app
 4. Responsive Design: The app is designed to work seamlessly across different screen sizes and devices.
 
 # Usage
-1. Clone the repository: git clone https://github.com/your-username/quiz-app.git
+1. Clone the repository: git clone https://github.com/owaissaleem62/quiz-app.git
 2. Open index.html in your web browser.
 3. Start taking quizzes and enjoy!
 
